@@ -1,1 +1,1 @@
-
+O módulo 5 faz uma extensão dos conceitos de estruturas lógicas do Excel combinadas com estruturas de mercado. Além disso, várias fórmulas importantes financeiras foram estudadas, como TIR, PGTO, VP e TAXA.
